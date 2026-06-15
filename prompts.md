@@ -1,4 +1,4 @@
-# AI Prompts Log
+
 
 To accelerate the development process and resolve specific styling blockers, I utilized AI (Gemini) during this sprint. Below is the log of the prompts used:
 
