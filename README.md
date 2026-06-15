@@ -7,7 +7,7 @@ A fully responsive, high-performance corporate landing page built for the Sprint
 - **Demo Video:** [Insert your 2-3 minute QA demo video link here]
 
 ##  Screenshot
-![overview.png]( ) 
+[https://github.com/Sarvesh-88/Sprint-1/blob/main/overview.png]( ) 
 
 
 ##  Tech Stack
