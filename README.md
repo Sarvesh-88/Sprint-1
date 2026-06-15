@@ -7,8 +7,8 @@ A fully responsive, high-performance corporate landing page built for the Sprint
 - **Demo Video:** [Insert your 2-3 minute QA demo video link here]
 
 ##  Screenshot
-![Website View]( ) 
-*(overview.png)*
+![overview.png]( ) 
+
 
 ##  Tech Stack
 - HTML5
