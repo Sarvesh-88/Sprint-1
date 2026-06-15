@@ -8,7 +8,7 @@ A fully responsive, high-performance corporate landing page built for the Sprint
 
 ##  Screenshot
 ![Website View]( ) 
-*(Note: Save a screenshot of your website in your project folder and name it 'screenshot.png')*
+*(overview.png)*
 
 ##  Tech Stack
 - HTML5
