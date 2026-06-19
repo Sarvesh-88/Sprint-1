@@ -3,8 +3,8 @@
 A fully responsive, high-performance corporate landing page built for the Sprint 1 engineering requirements. This project features a Dark/Light mode toggle, interactive hover animations, and a responsive layout without using external CSS frameworks.
 
 ##  Important Links
-- **Live Website:** (https://sprint1-project.netlify.app/)
-- **Demo Video:** (https://drive.google.com/file/d/16_V5JhXS4KdpQz7wAyPwurjZ2N-tEAHq/view?usp=drivesdk)
+- **Live Website:** https://sprint1-project.netlify.app/
+- **Demo Video:** https://drive.google.com/file/d/16_V5JhXS4KdpQz7wAyPwurjZ2N-tEAHq/view?usp=drivesdk
 
 ##  Screenshot
 [Project Overview](overview.png)
